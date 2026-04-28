@@ -1,0 +1,13 @@
+# Arya Pratama Sinambela - 12S24017
+
+1. apa yang di minta oleh kode tersebut
+2. ini adalh harapan yang diminta oleh 
+    program tersebut bagaimana cara membuatnya gar dapat sesuai dengan yang diminta
+3. ini adalh harapan yang diminta oleh program tersebut bagaimana cara membuatnya agar
+    dapat sesuai dengan yang diminta
+4. coba pisahkan operasi dari soal 1 ,2 dan 3,dan selanjutnya
+5. apa arti sc pada code
+6. saya masih belummengerti penggunaan sc
+7. coba kita ulang dari awal
+8. mengapa hasilnya seperti ini/
+9. 

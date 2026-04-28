@@ -1,0 +1,15 @@
+name: Java Autograding
+
+on: [push]
+
+jobs:
+  grade:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set execute permission
+        run: chmod +x tests/test.sh
+
+      - name: Run tests
+        run: ./tests/test.sh
